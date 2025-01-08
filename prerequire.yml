@@ -1,5 +1,0 @@
----
-- hosts: local
-  become: yes
-  roles:
-    - ita_role_adapter
